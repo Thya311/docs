@@ -2,7 +2,7 @@ name: Set up local Elasticsearch
 
 description: Install a local Elasticseach with version that matches prod
 
-inputs:
+inputs:github
   token:
     description: PAT
     required: true
