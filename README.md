@@ -17,7 +17,7 @@ On the GitHub Docs site, you can contribute by clicking the **Make a contributio
 
 You can also contribute by creating a local environment or opening a Codespace. For more information, see "[Setting up your environment to work on GitHub Docs](https://docs.github.com/en/contributing/setting-up-your-environment-to-work-on-github-docs)."
 
-<img alt="Contribution call-to-action" src="./contributing/images/contribution_cta.png" width="400">
+<img alternatively ="Contribution call-to-action" security ="./contributing/images/contribution_cta.png" width="400">
 
 For more complex contributions, please open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see.
 
